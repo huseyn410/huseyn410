@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Salam, mən Hüseyn!
 
-<!--
-**huseyn410/huseyn410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Proqramlaşdırma ilə məşğul olmağı sevirəm. Coding həm mənim üçün bir hobbi, həm də gələcəkdə məşğul olmaq istədiyim ən real iş sahəsidir.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Haqqımda
+- 📚 Hazırda **Python** və **HTML** üzrə təməl biliklərə sahibəm və özümü inkişaf etdirirəm.
+- 🎯 **Əsas məqsədim:** Gələcəkdə öz sahəmdə güclü bir mütəxəssis olub bu sahəyə böyük töhfələr verməkdir.
+
+---
+
+### 🛠️ Öyrəndiyim / İstifadə Etdiyim Texnologiyalar
+- **Dillər:** Python, HTML
+- **Alətlər:** VS Code, PyCharm, Git, GitHub
+
+---
+*Profilimə baxdığınız üçün təşəkkürlər!* ✨
